@@ -1,12 +1,11 @@
 <h2 align="left">Hi, I'm Bhavika 👋</h2>
 
 <p align="left">
-  I build web apps using MERN, design UI in Figma, and enjoy learning modern frontend tools.
+  
 </p>
 
 ---
 
-### 🛠 Tech I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
